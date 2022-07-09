@@ -11,6 +11,8 @@
 
 - 🤝 another one in React.Js [Search-Heroes,](https://heroes-app87.herokuapp.com/) [github.](https://github.com/CaoaDev/Heroes-App)
 
+- 🤟 All my personal Github projects: [Github-Proyects](https://github.com/CaoaDev?tab=repositories)
+
 - 🌱 I’m currently learning **Learning new things about React.js and Next.js**
 
 - 💬 Ask me about **React.Js and Next.js**
@@ -21,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/carlosartdev087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/carlosartdev087" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlosartdev087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/carlosartdev087" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
