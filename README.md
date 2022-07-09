@@ -17,7 +17,9 @@
 
 - 💬 Ask me about **React.Js and Next.js**
 
-- 📫 How to reach me **blackdarkcaos87@gmail.com**
+- 📫 Contact me by mail: **blackdarkcaos87@gmail.com**
+
+- 📲 Contact me by whatsapp or call me: **+529611388636**
 
 - ⚡ Fun fact **I studied Computer Systems Engineering and I have a Master's degree in Telecommunications.**
 
