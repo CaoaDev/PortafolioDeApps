@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caoadev" alt="caoadev" /></a> </p>
 
-- 🔭 I have worked on my own Next.js projects. [Pokemon-heoku,](https://pokemon-next.herokuapp.com) [Pokemon-vercel,](https://pokemon-nextjs-blond.vercel.app/) [Github.](https://github.com/CaoaDev/pokemon-next.js)
+- 🔭 I have worked on my own Next.js projects: [Pokemon-heoku,](https://pokemon-next.herokuapp.com) [Pokemon-vercel,](https://pokemon-nextjs-blond.vercel.app/) [Github.](https://github.com/CaoaDev/pokemon-next.js)
 
-- 💪 My most complete project using frontend as banckend, you have to register.[Calendar,](https://calendar-mern-caoa.herokuapp.com) [Github-FrontEnd,](https://github.com/CaoaDev/Calendar-mern-caoa-frontend) [Github-BackEnd.](https://github.com/CaoaDev/Calendar-mern-caoa-backend)
+- 💪 My most complete project using frontend as banckend, you have to register: [Calendar,](https://calendar-mern-caoa.herokuapp.com) [Github-FrontEnd,](https://github.com/CaoaDev/Calendar-mern-caoa-frontend) [Github-BackEnd.](https://github.com/CaoaDev/Calendar-mern-caoa-backend)
 
-- 🤝 I have also done work in React.Js. [Todos-App,](https://caoadev.github.io/Todos-App) [github.](https://github.com/CaoaDev/Todos-App)
+- 🤝 I have also done work in React.Js: [Todos-App,](https://caoadev.github.io/Todos-App) [github.](https://github.com/CaoaDev/Todos-App)
 
-- 🤝 another one in React.Js [Search-Heroes,](https://heroes-app87.herokuapp.com/) [Github.](https://github.com/CaoaDev/Heroes-App)
+- 🤝 another one in React.Js: [Search-Heroes,](https://heroes-app87.herokuapp.com/) [Github.](https://github.com/CaoaDev/Heroes-App)
 
 - 🤟 All my personal Github projects: [Github-Proyects](https://github.com/CaoaDev?tab=repositories)
 
-- 🌱 I’m currently learning **Learning new things about React.js and Next.js**
+- 🌱 I’m currently learning: **Learning new things about React.js and Next.js**
 
 - 💬 Ask me about **React.Js and Next.js**
 
@@ -21,7 +21,7 @@
 
 - 📲 Contact me by whatsapp or call me: **+529611388636**
 
-- ⚡ Fun fact **I studied Computer Systems Engineering and I have a Master's degree in Telecommunications.**
+- ⚡ Fun fact: **I studied Computer Systems Engineering and I have a Master's degree in Telecommunications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
