@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Arturo Ortiz Avelino</h1>
-<h3 align="center">A passionate of technologies, Full Stack MERN frontend developer, and Next.js, I'm from Mexico.</h3>
+<h3 align="center">I am a Computer Systems Engineer, A passionate of technologies, Full Stack MERN frontend developer, and Next.js, I'm from Mexico.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caoadev" alt="caoadev" /></a> </p>
 
