@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Arturo Ortiz Avelino 👨‍💻</h1>
-<h3 align="center">I am a Computer Systems Engineer, A passionate of technologies, Full Stack MERN and Next.js, I'm from Mexico.</h3>
+<h3 align="center">I am a Computer Systems Engineer, A passionate of technologies, Full Stack MERN and Next.js, I'm from Chiapas, Mexico.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caoadev" alt="caoadev" /></a> </p>
 
@@ -9,13 +9,13 @@
 
 - 🤝 I have also done work in React.Js: [Todos-App,](https://caoadev.github.io/Todos-App) [github.](https://github.com/CaoaDev/Todos-App)
 
-- 🤝 another one in React.Js: [Search-Heroes-App,](https://heroes-app87.herokuapp.com/) [Github.](https://github.com/CaoaDev/Heroes-App)
+- 👌 another one in React.Js: [Search-Heroes-App,](https://heroes-app87.herokuapp.com/) [Github.](https://github.com/CaoaDev/Heroes-App)
 
 - 🤟 All my personal Github projects: [Github-Proyects-Apps](https://github.com/CaoaDev?tab=repositories)
 
-- 🌱 I’m currently learning: **Learning new things about React.js and Next.js**
+- 🌱 I’m currently learning: **New things about React.js and Next.js**
 
-- 💬 Ask me about **React.Js and Next.js**
+- 💬 Ask me about **React.Js and Next.js, Css, Html**
 
 - 📫 Contact me by mail: **blackdarkcaos87@gmail.com**
 
