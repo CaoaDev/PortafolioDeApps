@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caoadev" alt="caoadev" /></a> </p>
 
+- ❌ The apps may take some time to open as they are free servers, if it gives error just give it a refresh and it will load correctly.
+
 - 🔭 I have worked on my own Next.js projects: [Pokemon-heoku-App,](https://pokemon-next.herokuapp.com) [Pokemon-vercel-App,](https://pokemon-nextjs-blond.vercel.app/) [Github.](https://github.com/CaoaDev/pokemon-next.js)
 
 - 💪 My most complete project using frontend as banckend, you have to register: [Calendar-App,](https://calendar-mern-caoa.herokuapp.com) [Github-FrontEnd,](https://github.com/CaoaDev/Calendar-mern-caoa-frontend) [Github-BackEnd.](https://github.com/CaoaDev/Calendar-mern-caoa-backend)
