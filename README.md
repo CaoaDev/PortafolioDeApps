@@ -5,8 +5,6 @@
 
 - ❌ The apps may take some time to open as they are free servers, if it gives error just give it a refresh and it will load correctly.
 
-- 🔭 I have worked on my own Next.js projects: [Pokemon-heoku-App,](https://pokemon-next.herokuapp.com) [Pokemon-vercel-App,](https://pokemon-nextjs-blond.vercel.app/) [Github.](https://github.com/CaoaDev/pokemon-next.js)
-
 - 💪 My most complete project using frontend as banckend, you have to register: [Calendar-App,](https://calendar-mern-caoa.herokuapp.com) [Github-FrontEnd,](https://github.com/CaoaDev/Calendar-mern-caoa-frontend) [Github-BackEnd.](https://github.com/CaoaDev/Calendar-mern-caoa-backend)
 
 - ✌️ I have also done work in React.Js: [Todos-App,](https://caoadev.github.io/Todos-App) [github.](https://github.com/CaoaDev/Todos-App)
@@ -14,6 +12,8 @@
 - 🤝 more jobs in React.Js: [Journal-App,](https://journal-app87.herokuapp.com) [github.](https://github.com/CaoaDev/Journal-App)
 
 - 👌 another one in React.Js: [Search-Heroes-App,](https://heroes-app87.herokuapp.com/) [Github.](https://github.com/CaoaDev/Heroes-App)
+
+- 🔭 I have worked on my own Next.js projects: [Pokemon-heoku-App,](https://pokemon-next.herokuapp.com) [Pokemon-vercel-App,](https://pokemon-nextjs-blond.vercel.app/) [Github.](https://github.com/CaoaDev/pokemon-next.js)
 
 - 🤟 All my personal Github projects: [Github-Proyects-Apps](https://github.com/CaoaDev?tab=repositories)
 
